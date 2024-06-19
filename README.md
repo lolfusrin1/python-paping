@@ -23,3 +23,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/lolfusrin1/python-paping.git
 cd python-paping
+```
+
+## Usage
+Run the script with Python, providing three command-line arguments:

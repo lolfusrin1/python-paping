@@ -1,6 +1,7 @@
 # python-paping
 
 A Python script to ping a server over TCP/IP and measure connection statistics.
+Version: 1.0
 
 ## Description
 

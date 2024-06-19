@@ -11,14 +11,18 @@ The script utilizes ANSI escape sequences to colorize the output:
 - Red for failed connections or timeouts.
 - Yellow for connection information.
 
-## Usage
+## Requirements
 
-### Requirements
 - Python 3.x
 - `socket` library (standard library in Python)
 
-### How to Run
+## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/python-paping.git
+Clone the repository:
+
+```bash
+git clone https://github.com/lolfusrin1/python-paping.git
+cd python-paping
+
+Usage
+Run the script with Python, providing three command-line arguments:
